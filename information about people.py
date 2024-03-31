@@ -1,18 +1,18 @@
 peoples= {
     "one": {
-        "first": "k",
-        "last": "k",
-        "location": "K"
+        "first": "Kevin",
+        "last": "Evans",
+        "location": "Washington"
     },
     "two" : {
-        "first" : "b" ,
-        "last" : "b" ,
-        "location" : "B"
+        "first" : "Adam" ,
+        "last" : "Davies" ,
+        "location" : "Bakersfield"
         },
     "three" : {
-        "first" : "d" ,
-        "last" : "d" ,
-        "location" : "d"
+        "first" : "Ben" ,
+        "last" : "Gilbert" ,
+        "location" : "Madison"
     }
 }
 for piople, peop_info in peoples.items():
